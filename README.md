@@ -1,11 +1,11 @@
 ## Console Output
-
+```
 Loaded env from /home/dkempner/src/env-vars/.env.local
 Loaded env from /home/dkempner/src/env-vars/.env.development
 Loaded env from /home/dkempner/src/env-vars/.env
 
 { A: 'A', B: 'B', C: 'C', WINNER: '.env.local' }
-
+```
 
 ## Getting Started
 
